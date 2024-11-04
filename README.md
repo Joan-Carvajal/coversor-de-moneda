@@ -1,5 +1,8 @@
 <h1> # Conversor de monedas </h1>
 
+![Badge-Conversor](https://github.com/user-attachments/assets/62b4b142-72d4-4048-ae0e-2e3ddfa75478)
+
+
 *[Descripción del proyecto](#descripción-del-proyecto)
 
 *[Estado del proyecto](#Estado-del-proyecto)
