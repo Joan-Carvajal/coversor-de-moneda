@@ -14,7 +14,7 @@
 
 <h2> Descripcion del Proyecto </h2>
 
-<p> Este proyecto se trata de un coversor de monedas con Java en el cual hacemos uso de la bibloteca de Gson para poder manejar la API de https://www.exchangerate-api.com/, donde se aplican buenas practicas como SOLID y clean code de tal manera que el codigo sea legible y escalable  </p>
+<p> Este proyecto se trata de un coversor de monedas con Java en el cual hacemos uso de la bibloteca de Gson para poder manejar la API de https://www.exchangerate-api.com/, donde se aplican buenas practicas como SOLID, clean code y manejo de errores  de tal manera que el codigo sea legible y escalable  </p>
 
 
 
