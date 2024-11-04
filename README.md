@@ -17,8 +17,6 @@
 <p> Este proyecto se trata de un coversor de monedas con Java en el cual hacemos uso de la bibloteca de Gson para poder manejar la API de https://www.exchangerate-api.com/, donde se aplican buenas practicas como SOLID y clean code de tal manera que el codigo sea legible y escalable  </p>
 
 
-file:///home/joan/Im%C3%A1genes/Capturas%20de%20pantalla/coversorDeMoneda.png
-
 
 
 <h4 align="center">
@@ -34,6 +32,7 @@ file:///home/joan/Im%C3%A1genes/Capturas%20de%20pantalla/coversorDeMoneda.png
 
 ## Características de la aplicación y demostración
 
+![image](https://github.com/user-attachments/assets/0edb82e0-79cd-48d1-b35a-2ddf1dc36274)
 
 
 
