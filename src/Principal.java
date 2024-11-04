@@ -8,7 +8,7 @@ public class Principal {
         System.out.println("Se bienvenido/a al Coversor de Moneda");
         Scanner scanner = new Scanner(System.in);
         ConsultaMoneda miMoneda = new ConsultaMoneda();
-        int selecionarMenu=0;
+        int selecionarMenu;
         while (true){
         ConsultaMoneda.mostrarMenu();
         System.out.println("Selecciona una opcion valida");
